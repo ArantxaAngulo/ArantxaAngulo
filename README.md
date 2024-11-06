@@ -3,6 +3,6 @@
 🔍 Seeking Summer 2025 Internships
 
 ### 🌐 Current Projects
-- NearPoint: A mobile application designed to help users easily locate and navigate to points of interest (POIs). This app integrates with the Google Maps API to display POIs like libraries, dining spots, and recreational areas on a dynamic map
+- Point It: A mobile application designed to help users easily locate and navigate to points of interest (POIs). This app integrates with the Google Maps API to display POIs like libraries, dining spots, and recreational areas on a dynamic map
 - Turn-Based Terminal Game: Developing a basic RPG with interactive storytelling elements
 - Minecraft Bot: Automating repetitive tasks in Minecraft with a tree-chopping bot. //PRIVATE
