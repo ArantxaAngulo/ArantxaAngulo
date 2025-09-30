@@ -1,14 +1,14 @@
-## Hello World 💻
-🌱 Hi, I'm Arantxa, a SWE/CS student from Mexico ! I’m passionate about building creative solutions with code :-)
+# Hello World . ݁₊ ⊹ . ݁˖ . ݁
+Hi, I'm Arantxa, a SWE/CS student from Mexico ! I’m passionate about building creative solutions with code ദ്ദി/ᐠ｡‸｡ᐟ\
 
-### 🌐 Current Projects
-- Point It: A mobile application designed to help users easily save, locate and navigate to points of interest (POIs)
-- Minecraft Bot: Automating repetitive tasks in Minecraft with a tree-chopping bot
+### 🤍 Current Whereabouts
+- Interning @ IT911, spearheading the development of an ai feature ! 
+- learning about and developing a data pipeline for a startup !
 
 ### 🤍 Website
 - For a more in depth look at me/my life/projects, take a look [link!](https://syb.nekoweb.org)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
